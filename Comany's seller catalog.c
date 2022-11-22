@@ -6,7 +6,7 @@
 typedef struct{
    char nome[60];
    float salarioBase;
-   char dataDeNascimento[10]; 
+   char dataDeNascimento[10];
    float totalVendido;
    char cpf[11];
    float comissao;
